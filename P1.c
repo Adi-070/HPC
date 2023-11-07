@@ -6,7 +6,7 @@ int main ()
   int n,m;
   printf("Enter the size of the matrix:");
   scanf("%d",&n);
-  printf("Enter thre size of the vector:");
+  printf("Enter the size of the vector:");
   scanf("%d",&m);
   if(m!=n)
   {
